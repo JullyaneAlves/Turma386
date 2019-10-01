@@ -28,6 +28,7 @@ class AgendaAdmin(admin.ModelAdmin):
 
 admin.site.register(Agenda, AgendaAdmin)
 
+
 class LivrariaAdmin(admin.ModelAdmin):
     list_display = ('Titulo', 'Nome_do_autor', 'Assunto', 'Editora', 'ISBN')
 

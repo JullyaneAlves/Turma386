@@ -1,13 +1,10 @@
 from django.db import models
-
-# Create your models here.
-
-from django.db import models
-
 # Create your models here.
 #/mysite/core/models.py
 
 from django.db import models
+
+
 
 class Agenda(models.Model):
     data = models.DateField('data do evento')
@@ -127,4 +124,3 @@ class Anuncio(models.Model):
 
     def __str__(self):
         return self.cliente
-

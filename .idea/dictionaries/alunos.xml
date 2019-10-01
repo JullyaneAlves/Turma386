@@ -2,7 +2,11 @@
   <dictionary name="alunos">
     <words>
       <w>aluno</w>
+      <w>anuncio</w>
       <w>autor</w>
+      <w>cliente</w>
+      <w>contato</w>
+      <w>criacao</w>
       <w>descricao</w>
       <w>descrição</w>
       <w>devolucao</w>
@@ -15,9 +19,15 @@
       <w>livros</w>
       <w>matricula</w>
       <w>nascimento</w>
+      <w>numero</w>
+      <w>pagamento</w>
+      <w>produto</w>
+      <w>proprietario</w>
       <w>publicacao</w>
       <w>retirada</w>
+      <w>secao</w>
       <w>telefone</w>
+      <w>tipo</w>
       <w>titulo</w>
       <w>título</w>
       <w>usuario</w>
