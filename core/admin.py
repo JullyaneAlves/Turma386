@@ -6,10 +6,7 @@ from .models import  Despesa
 from .models import Compras
 from .models import Apartamento
 from .models import Anuncio
-<<<<<<< HEAD
 
-=======
->>>>>>> f43682067ead92848b97011f61a0b027396afeff
 
 from .models import *
 

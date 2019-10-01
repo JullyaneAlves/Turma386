@@ -3,18 +3,22 @@
     <words>
       <w>aluno</w>
       <w>anuncio</w>
+      <w>apartamento</w>
       <w>autor</w>
       <w>cliente</w>
+      <w>compras</w>
       <w>contato</w>
       <w>criacao</w>
       <w>descricao</w>
       <w>descrição</w>
+      <w>despesa</w>
       <w>devolucao</w>
       <w>devolvido</w>
       <w>emprestimo</w>
       <w>evento</w>
       <w>horario</w>
       <w>horário</w>
+      <w>livraria</w>
       <w>livro</w>
       <w>livros</w>
       <w>matricula</w>
@@ -26,6 +30,7 @@
       <w>publicacao</w>
       <w>retirada</w>
       <w>secao</w>
+      <w>sobrenome</w>
       <w>telefone</w>
       <w>tipo</w>
       <w>titulo</w>
